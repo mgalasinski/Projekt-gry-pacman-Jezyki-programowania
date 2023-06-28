@@ -1,0 +1,5 @@
+C:/Users/adamk/source/repos/Projekt gra pac-man/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/adamk/source/repos/Projekt gra pac-man/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/adamk/source/repos/Projekt gra pac-man/out/build/x64-debug/Projekt gra pac-man/CMakeFiles/CMakeTarget.dir
+C:/Users/adamk/source/repos/Projekt gra pac-man/out/build/x64-debug/Projekt gra pac-man/CMakeFiles/edit_cache.dir
+C:/Users/adamk/source/repos/Projekt gra pac-man/out/build/x64-debug/Projekt gra pac-man/CMakeFiles/rebuild_cache.dir
